@@ -33,7 +33,7 @@ void ExibirOpcoesDoMenu()
 
     switch (opcaoEscolhidaNumerica) 
     {
-        case 1: RegistarBanda();
+        case 1: RegistrarBanda();
             break;
         case 2: Console.WriteLine("\nVocê escolheu a opção " + opcaoEscolhidaNumerica);
             break;
@@ -51,7 +51,7 @@ void ExibirOpcoesDoMenu()
     }
 }
 
-void RegistarBanda() 
+void RegistrarBanda() 
 {
     Console.Clear();
     Console.WriteLine("Registro de bandas");
