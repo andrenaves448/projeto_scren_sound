@@ -46,6 +46,8 @@ void ExibirOpcoesDoMenu()
         case -1:
             Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
             break;
+        default: Console.WriteLine("Opção inválida. Por favor, tente novamente.");
+            break;
     }
 }
 
