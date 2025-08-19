@@ -33,20 +33,20 @@ void ExibirOpcoesDoMenu()
 
     switch (opcaoEscolhidaNumerica) 
     {
-        case 1: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+        case 1: Console.WriteLine("\nVocê escolheu a opção " + opcaoEscolhidaNumerica);
             break;
-        case 2: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+        case 2: Console.WriteLine("\nVocê escolheu a opção " + opcaoEscolhidaNumerica);
             break;
         case 3:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+            Console.WriteLine("\nVocê escolheu a opção " + opcaoEscolhidaNumerica);
             break;
         case 4:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+            Console.WriteLine("\nVocê escolheu a opção " + opcaoEscolhidaNumerica);
             break;
         case -1:
-            Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
+            Console.WriteLine("\nAté logo!! " + opcaoEscolhidaNumerica);
             break;
-        default: Console.WriteLine("Opção inválida. Por favor, tente novamente.");
+        default: Console.WriteLine("\nOpção inválida. Por favor, tente novamente.");
             break;
     }
 }
