@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23733207/README.md)
 # 🎵 Screen Sound
 
 **Screen Sound** é uma aplicação de console desenvolvida em **C#** para gerenciamento e avaliação de bandas musicais. O objetivo é permitir que o usuário registre bandas, visualize as bandas cadastradas, avalie cada banda e consulte a média das avaliações.
