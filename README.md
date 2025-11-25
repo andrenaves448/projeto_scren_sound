@@ -75,11 +75,3 @@ Digite 3 para avaliar uma banda
 Digite 4 para exibir a média de uma banda
 Digite -1 para sair
 ```
-
----
-
-## 🚀 Próximos Passos
-
-- Implementar persistência de dados (salvar em arquivo ou banco).
-- Adicionar tratamento de erros mais robusto.
-- Criar testes unitários.
